@@ -1,5 +1,5 @@
-## DevOps Skilles:
-##### :memo: Communication and Collaboration.
+## :memo: DevOps Skilles:
+<!--- ##### :memo: Communication and Collaboration.
 ##### :memo: Soft Skills and Noble Thought.
 ##### :memo: Understanding of Relevant Tools.
 ##### :memo: Security Skills.
@@ -15,14 +15,68 @@
 ##### :memo: Testing Skills.
 ##### :memo: Customer-Focused Approach.
 ##### :memo: Proactiveness.
+-->
+
+<style>
+#skills {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#skills td, #skills th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#skills tr:nth-child(even){background-color: #f2f2f2;}
+
+#skills td:hover {background-color: #FFFFE0;}
+
+#skills th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+
+<center>
+<table id="skills" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Communication and Collaboration.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Soft Skills and Noble Thought.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Understanding of Relevant Tools.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Security Skills.</b></a></td>    
+  </tr>
+  <tr>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b>  Automation Skills.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Coding and Scripting.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Linux Fundamentals.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Infrastructure Management.</b></a></td>
+  </tr> 
+  <tr>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> System Administration.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> DevOps Toolchains.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Source Code Management.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Agile Methodologies.</b></a></td>
+  </tr>  
+  <tr>     
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Cloud Skills.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Testing Skills.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Customer-Focused Approach.</b></a></td>
+    <td align="left"><a href="#devops"><img src="images/approve.png" width="20px;" height="20px;" alt="DevOps" /><b> Proactiveness.</b></a></td>
+  </tr>
+</table>
+</center>
 
 
-
-# Languages and Tools:
+# :memo: Languages and Tools:
 ****
 
 <center>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table id="skills" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center"><a href="#devops"><img src="images/devops.svg" width="160px;" height="110px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
     <td align="center"><a href="#devsecops"><img src="images/devsecops.png" width="160px;" height="110px;" alt="DevSecOps" /><br /><b>DevSecOps</b></a></td>
@@ -47,9 +101,9 @@
   </tr>
   <tr>
     <td align="center"><a href="#rancher"><img src="images/rancher.png" width="120px;" height="70px;" alt="rancher"/><br /><b>Rancher</b></a><br /></td>
-    <td align="center"><a href="#aws"><img src="images/aws.jpg" width="90px;" height="90px;" alt="aws"/><br /><b>AWS</b></a><br /></td>
+    <td align="center"><a href="#aws"><img src="images/aws.png" width="90px;" height="90px;" alt="aws"/><br /><b>AWS</b></a><br /></td>
     <td align="center"><a href="#gcp"><img src="images/gcp.png" width="90px;" height="70px;" alt="gcp"/><br /><b>GCP</b></a><br /></td>
-    <td align="center"><a href="#azure"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a><br /></td>    
+    <td align="center"><a href="#azure"><img src="images/azure.png" width="55px;" height="75px;" alt="azure"/><br /><b>Azure</b></a><br /></td>    
     <td align="center"><a href="#openstack"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a><br /></td>
     <td align="center"><a href="#security"><img src="images/security.png" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a><br /></td>
     <td align="center"><a href="#puppet"><img src="images/puppet.png" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a><br /></td>
@@ -70,4 +124,5 @@
   </tr>
 </table>
 </center>
+
 
