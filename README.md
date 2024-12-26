@@ -17,30 +17,7 @@
 ##### :memo: Proactiveness.
 -->
 
-<style>
-#skills {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-#skills td, #skills th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#skills tr:nth-child(even){background-color: #f2f2f2;}
-
-#skills td:hover {background-color: #FFFFE0;}
-
-#skills th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #04AA6D;
-  color: white;
-}
-</style>
 
 <center>
 <table id="skills" width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -124,5 +101,7 @@
   </tr>
 </table>
 </center>
+
+
 
 
