@@ -22,7 +22,7 @@
 ****
 
 <center>
-<table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center"><a href="#devops"><img src="images/devops.svg" width="160px;" height="110px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
     <td align="center"><a href="#devsecops"><img src="images/devsecops.png" width="160px;" height="110px;" alt="DevSecOps" /><br /><b>DevSecOps</b></a></td>
